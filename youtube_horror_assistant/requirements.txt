@@ -1,0 +1,11 @@
+# YouTube Horror Content Assistant
+# Required Python packages
+
+# OpenAI API
+openai>=1.0.0
+
+# Core dependencies
+python-dotenv>=1.0.0
+
+# Optional but recommended
+colorama>=0.4.6  # For colored terminal output

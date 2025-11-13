@@ -1,0 +1,148 @@
+{
+  "niches": {
+    "paranormal": {
+      "name": "Paranormal",
+      "description": "Ghost stories, hauntings, supernatural encounters",
+      "keywords": ["ghost", "haunted", "paranormal", "supernatural", "spirit", "apparition", "poltergeist"],
+      "style_guide": {
+        "tone": "mysterious and atmospheric",
+        "pacing": "slow build with sudden scares",
+        "vocabulary": "evocative and descriptive",
+        "techniques": ["atmospheric descriptions", "sensory details", "building dread"]
+      },
+      "common_hooks": [
+        "What happens when the dead refuse to stay dead?",
+        "Some places are better left undisturbed...",
+        "They say every house has a history. But this one had secrets."
+      ],
+      "visual_style": "dark, shadowy, ethereal",
+      "thumbnail_elements": ["shadowy figures", "old houses", "mist", "glowing eyes"]
+    },
+    "urban_legends": {
+      "name": "Urban Legends",
+      "description": "Modern myths, creepypastas, internet horror",
+      "keywords": ["urban legend", "creepypasta", "myth", "folklore", "mystery", "unexplained"],
+      "style_guide": {
+        "tone": "conversational but eerie",
+        "pacing": "steady with twist ending",
+        "vocabulary": "accessible and modern",
+        "techniques": ["relatable settings", "what-if scenarios", "twist reveals"]
+      },
+      "common_hooks": [
+        "You've probably heard this story before. But you don't know the truth.",
+        "It started as a joke on the internet. Then people started disappearing.",
+        "Every urban legend has a grain of truth. This one has a body count."
+      ],
+      "visual_style": "modern, urban, gritty",
+      "thumbnail_elements": ["city streets at night", "computer screens", "urban decay", "red text"]
+    },
+    "true_crime": {
+      "name": "True Crime Horror",
+      "description": "Real mysterious cases with horror elements",
+      "keywords": ["true crime", "mystery", "unsolved", "investigation", "real story", "cold case"],
+      "style_guide": {
+        "tone": "serious and investigative",
+        "pacing": "methodical with reveals",
+        "vocabulary": "factual but dramatic",
+        "techniques": ["timeline presentation", "evidence discussion", "multiple theories"]
+      },
+      "common_hooks": [
+        "The police called it an accident. The evidence suggests otherwise.",
+        "This case has haunted investigators for decades.",
+        "What they found in that house changed everything."
+      ],
+      "visual_style": "documentary, noir, serious",
+      "thumbnail_elements": ["crime scene tape", "old photos", "evidence", "newspaper clippings"]
+    },
+    "cryptids": {
+      "name": "Cryptids & Creatures",
+      "description": "Mysterious creatures, bigfoot, unknown animals",
+      "keywords": ["cryptid", "creature", "monster", "bigfoot", "unknown", "sighting", "beast"],
+      "style_guide": {
+        "tone": "adventurous and mysterious",
+        "pacing": "building evidence toward encounter",
+        "vocabulary": "descriptive and vivid",
+        "techniques": ["eyewitness accounts", "evidence presentation", "atmosphere building"]
+      },
+      "common_hooks": [
+        "Deep in the forest, something watches. And it's not an animal.",
+        "The locals refuse to talk about it. But the evidence speaks for itself.",
+        "These mountains hide more than just wildlife."
+      ],
+      "visual_style": "wilderness, dark forests, mysterious",
+      "thumbnail_elements": ["forest scenes", "creature silhouettes", "glowing eyes", "footprints"]
+    },
+    "personal_experiences": {
+      "name": "Personal Horror Experiences",
+      "description": "First-person real-life scary encounters",
+      "keywords": ["real story", "true story", "personal experience", "happened to me", "scary encounter"],
+      "style_guide": {
+        "tone": "intimate and authentic",
+        "pacing": "natural storytelling flow",
+        "vocabulary": "conversational and relatable",
+        "techniques": ["first-person narrative", "emotional honesty", "detailed memories"]
+      },
+      "common_hooks": [
+        "I never believed in the paranormal. Until this happened to me.",
+        "Some things you experience are too real to forget.",
+        "This is my story. And I've never told anyone the full truth until now."
+      ],
+      "visual_style": "personal, intimate, realistic",
+      "thumbnail_elements": ["person's silhouette", "everyday locations", "personal items", "facial expressions"]
+    },
+    "cosmic_horror": {
+      "name": "Cosmic Horror",
+      "description": "Lovecraftian, existential dread, unknown forces",
+      "keywords": ["cosmic horror", "lovecraft", "eldritch", "unknown", "void", "ancient", "incomprehensible"],
+      "style_guide": {
+        "tone": "philosophical and unsettling",
+        "pacing": "slow descent into madness",
+        "vocabulary": "complex and evocative",
+        "techniques": ["incomprehensible descriptions", "existential themes", "creeping realization"]
+      },
+      "common_hooks": [
+        "Some knowledge is not meant for human minds.",
+        "We thought we understood the universe. We were so very wrong.",
+        "What lurks beyond our perception is beyond our comprehension."
+      ],
+      "visual_style": "abstract, vast, otherworldly",
+      "thumbnail_elements": ["space", "abstract shapes", "tentacles", "eyes", "cosmic imagery"]
+    },
+    "historical_horror": {
+      "name": "Historical Horror",
+      "description": "Historical events with horror elements",
+      "keywords": ["history", "historical", "past", "century", "ancient", "forgotten", "archive"],
+      "style_guide": {
+        "tone": "educational but eerie",
+        "pacing": "historical narrative with horror elements",
+        "vocabulary": "period-appropriate when needed",
+        "techniques": ["historical context", "primary sources", "period atmosphere"]
+      },
+      "common_hooks": [
+        "History books left this part out for a reason.",
+        "In 1873, something happened that was never explained.",
+        "The past holds darker secrets than you'd imagine."
+      ],
+      "visual_style": "vintage, sepia-toned, archival",
+      "thumbnail_elements": ["old photographs", "historical documents", "vintage imagery", "period clothing"]
+    },
+    "psychological_horror": {
+      "name": "Psychological Horror",
+      "description": "Mind games, reality distortion, mental terror",
+      "keywords": ["psychological", "mind", "reality", "sanity", "perception", "madness", "twisted"],
+      "style_guide": {
+        "tone": "unsettling and thought-provoking",
+        "pacing": "disorienting with shifting perspectives",
+        "vocabulary": "introspective and disturbing",
+        "techniques": ["unreliable narrator", "reality questions", "psychological manipulation"]
+      },
+      "common_hooks": [
+        "Reality is not as stable as you think.",
+        "The human mind is the most terrifying thing of all.",
+        "What if everything you knew was a lie?"
+      ],
+      "visual_style": "surreal, distorted, unsettling",
+      "thumbnail_elements": ["fractured imagery", "mirrors", "distorted faces", "abstract patterns"]
+    }
+  }
+}
