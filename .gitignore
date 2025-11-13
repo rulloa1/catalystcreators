@@ -36,3 +36,29 @@
 ehthumbs.db
 Thumbs.db
 
+# Python #
+##########
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# YouTube Scraper #
+###################
+youtube_scraper/downloads/
+youtube_scraper/archive.txt
+*.mp4
+*.webm
+*.mkv
+*.m4a
+*.info.json
+*.description
+*.jpg
+*.png
+*.webp
+
