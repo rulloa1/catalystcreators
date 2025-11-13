@@ -1,0 +1,27 @@
+{
+  "api": {
+    "openai_api_key": "sk-your-api-key-here",
+    "model": "gpt-4-turbo-preview",
+    "temperature": 0.7,
+    "max_tokens": 4000
+  },
+  "paths": {
+    "data_dir": "data",
+    "exports_dir": "exports",
+    "templates_dir": "templates"
+  },
+  "defaults": {
+    "horror_niche": "paranormal",
+    "script_duration": 5,
+    "num_title_options": 5,
+    "num_channel_names": 10
+  },
+  "preferences": {
+    "auto_save": true,
+    "export_format": [
+      "json",
+      "markdown"
+    ],
+    "show_tips": true
+  }
+}
